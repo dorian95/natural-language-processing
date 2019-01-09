@@ -1,4 +1,7 @@
 Repository for Higher School of Economics Advanced Machine Learning Specialization NLP course assignments.
+Week 1 - DONE
+Week 2 - In progress
+
 # Natural Language Processing course resources
 https://www.coursera.org/learn/language-processing
 
