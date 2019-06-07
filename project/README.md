@@ -1,4 +1,7 @@
-# Chatbot project
+# Chatbot project 
+
+Conversational bot that answers programming questions and simulates dialogue on general topics:
+t.me/Nursultan_Irgaliyev_bot
 
 This folder contains the starting code for the chatbot project.
 
