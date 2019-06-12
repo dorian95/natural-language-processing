@@ -3,6 +3,9 @@
 Conversational bot that answers programming questions and simulates dialogue on general topics:
 <http://t.me/Nursultan_Irgaliyev_bot>
 
+Some questions to ask the bot:
+"How does threading work in C?"
+
 This folder contains the starting code for the chatbot project.
 
 ## Troubleshooting
