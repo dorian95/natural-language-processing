@@ -1,10 +1,12 @@
 # Chatbot project 
 
-Conversational bot that answers programming questions and simulates dialogue on general topics:
+Conversational bot that find answers to programming questions on StackOverflow and simulates dialogue on general topics:
 <http://t.me/Nursultan_Irgaliyev_bot>
 
-Some questions to ask the bot:
-"How does threading work in C?"
+Some questions to ask the bot: </br>
+"How does threading work in C?" </br>
+"What is encapsulation in Java?" </br>
+"What is your favorite color?" </br>
 
 This folder contains the starting code for the chatbot project.
 
