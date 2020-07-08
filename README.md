@@ -1,4 +1,5 @@
-Repository for Higher School of Economics Advanced Machine Learning Specialization NLP course assignments.
+My solutions for Higher School of Economics Advanced Machine Learning Specialization NLP course assignments and a project.
+The project was implementing a StackOverflow Assistant Bot accessible through Telegram.
 
 # Natural Language Processing course resources
 https://www.coursera.org/learn/language-processing
